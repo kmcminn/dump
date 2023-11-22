@@ -1,0 +1,25 @@
+key             reward          value       good         gd        bad         gb         id
+returns-midreturns-rbf6-macd7-NVDA-2200000
+-50.42       70001.72          7          5          7        0.5        501
+returns-midreturns-rbf6-macd15-NVDA-2200000
+-7.46        70105.02          8          5          3       0.73        507
+returns-midreturns-rbf6-macd11sw24-NVDA-2200000
+-48.86       70001.25         13          5          7       0.65        508
+returns-midreturns-rbf6-macd6-NVDA-2200000
+-49.07       69971.57          9          3          7       0.56        500
+returns-midreturns-rbf6-macd11sw25sg9-NVDA-2200000
+-3.02        70083.16         12          5          3        0.8        511
+returns-midreturns-rbf6-macd11sw25sg7-NVDA-2200000
+-14.27       70120.28         13          6          4       0.76        510
+returns-midreturns-rbf6-macd10-NVDA-2200000
+-14.94       70080.68         10          4          4       0.71        504
+returns-midreturns-rbf6-macd9-NVDA-2200000
+-41.85       70086.21         10          6          7       0.59        503
+returns-midreturns-rbf6-macd13-NVDA-2200000
+3.32         70186.16          9          5          3       0.75        505
+returns-midreturns-rbf6-macd11sw26-NVDA-2200000
+-9.96        70151.18         12          5          4       0.75        509
+returns-midreturns-rbf6-macd8-NVDA-2200000
+-43.37       70077.33          9          6          7       0.56        502
+returns-midreturns-rbf6-macd14-NVDA-2200000
+-45.82       70069.44          8          6          7       0.53        506
