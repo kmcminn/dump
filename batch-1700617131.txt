@@ -1,0 +1,69 @@
+key             reward          value       good         gd        bad         gb         id
+returns-midreturns-rbf6-dsd33-NVDA-2500000
+-0.97        69032.15         81          1         86       0.49        391
+returns-midreturns-rbf6-dsdn23-NVDA-2500000
+-0.76        69237.03         97          2         97        0.5        364
+returns-midreturns-rbf6-dsd28-NVDA-2500000
+-1.04        68958.29         80          0         76       0.51        386
+returns-midreturns-rbf6-dsdn35-NVDA-2500000
+-0.73        69268.73        109          1         99       0.52        376
+returns-midreturns-rbf6-dsdn22-NVDA-2500000
+-0.7         69303.26        117          2        109       0.52        363
+returns-midreturns-rbf6-dsdn30-NVDA-2500000
+-1.07         68934.0        128          1        132       0.49        371
+returns-midreturns-rbf6-dsdn31-NVDA-2500000
+-0.87        69129.39        125          1        127        0.5        372
+returns-midreturns-rbf6-dsdn26-NVDA-2500000
+-0.73         69274.0        119          1        115       0.51        367
+returns-midreturns-rbf6-dsd24-NVDA-2500000
+-1.21        68793.93         83          0         78       0.52        382
+returns-midreturns-rbf6-dsdn34-NVDA-2500000
+-1.1         68911.26        121          1        133       0.48        375
+returns-midreturns-rbf6-dsd34-NVDA-2500000
+-1.03        68969.36         98          1         85       0.54        392
+returns-midreturns-rbf6-dsd25-NVDA-2500000
+-1.01        68997.19         92          0         91        0.5        383
+returns-midreturns-rbf6-dsdn25-NVDA-2500000
+-0.99        69009.83        119          1        121        0.5        366
+returns-midreturns-rbf6-dsd23-NVDA-2500000
+-0.86        69143.63         72          1         68       0.51        381
+returns-midreturns-rbf6-dsd22-NVDA-2500000
+-0.95        69054.43         85          1         80       0.52        380
+returns-midreturns-rbf6-dsdn19-NVDA-2500000
+-0.75        69247.32         99          2        101       0.49        360
+returns-midreturns-rbf6-dsdn27-NVDA-2500000
+-0.73        69276.51        108          2        105       0.51        368
+returns-midreturns-rbf6-dsd32-NVDA-2500000
+-0.89        69112.59         98          1         92       0.52        390
+returns-midreturns-rbf6-dsdn28-NVDA-2500000
+-1.16        68850.14        125          1        127        0.5        369
+returns-midreturns-rbf6-dsd27-NVDA-2500000
+-0.95        69058.02         83          1         80       0.51        385
+returns-midreturns-rbf6-dsdn24-NVDA-2500000
+-0.99        69010.79        116          0        113       0.51        365
+returns-midreturns-rbf6-dsd19-NVDA-2500000
+-0.83        69172.08         65          1         61       0.52        377
+returns-midreturns-rbf6-dsdn33-NVDA-2500000
+-1.0         69004.85        109          1        109        0.5        374
+returns-midreturns-rbf6-dsdn29-NVDA-2500000
+-0.99        69017.32        102          1        102        0.5        370
+returns-midreturns-rbf6-dsdn32-NVDA-2500000
+-0.92        69079.36        128          0        120       0.52        373
+returns-midreturns-rbf6-dsd21-NVDA-2500000
+-0.82        69180.31         71          1         71        0.5        379
+returns-midreturns-rbf6-dsd31-NVDA-2500000
+-0.91        69093.06         91          1         96       0.49        389
+returns-midreturns-rbf6-dsd30-NVDA-2500000
+-0.87        69130.42         98          1         89       0.52        388
+returns-midreturns-rbf6-dsdn21-NVDA-2500000
+-0.67        69325.75        109          1        102       0.52        362
+returns-midreturns-rbf6-dsd35-NVDA-2500000
+-1.06        68947.48         92          0        100       0.48        393
+returns-midreturns-rbf6-dsdn20-NVDA-2500000
+-0.82         69183.4         80          1         81        0.5        361
+returns-midreturns-rbf6-dsd20-NVDA-2500000
+-0.93        69074.27         93          0         91       0.51        378
+returns-midreturns-rbf6-dsd26-NVDA-2500000
+-1.01        68994.12         84          1         89       0.49        384
+returns-midreturns-rbf6-dsd29-NVDA-2500000
+-0.83        69168.86         73          2         76       0.49        387
