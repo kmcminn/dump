@@ -1,0 +1,69 @@
+key             reward          value       good         gd        bad         gb         id
+returns-midreturns-rbf6-macd12265s-NVDA-2200000
+28.38        70110.86         10          4          8       0.56        548
+returns-midreturns-rbf6-macd426-NVDA-2200000
+-54.34       69905.51         18          4         17       0.51        539
+returns-midreturns-rbf6-macd726-NVDA-2200000
+19.75        69927.17         20          5         13       0.61        533
+returns-midreturns-rbf6-macd826-NVDA-2200000
+-313.0       69888.12         41          2         48       0.46        531
+returns-midreturns-rbf6-macd1227-NVDA-2200000
+29.35        69987.35         18          3         10       0.64        517
+returns-midreturns-rbf6-macd626-NVDA-2200000
+-60.39       69934.49         18          5         19       0.49        535
+returns-midreturns-rbf6-macd1225s-NVDA-2200000
+88.36        70277.29         19          5          7       0.73        520
+returns-midreturns-rbf6-macd12268-NVDA-2200000
+2.7          70262.88         28          3         15       0.65        541
+returns-midreturns-rbf6-macd1225-NVDA-2200000
+61.8         70333.75         16          4          8       0.67        519
+returns-midreturns-rbf6-macd12267s-NVDA-2200000
+61.6         70194.83          8          5          7       0.53        544
+returns-midreturns-rbf6-macd1222-NVDA-2200000
+67.61        70208.85         11          4          5       0.69        525
+returns-midreturns-rbf6-macd1222s-NVDA-2200000
+36.38        70090.81         16          4         10       0.62        526
+returns-midreturns-rbf6-macd1228-NVDA-2200000
+60.93        70052.84         12          4          7       0.63        515
+returns-midreturns-rbf6-macd1223-NVDA-2200000
+62.14        70260.75         16          4          7        0.7        523
+returns-midreturns-rbf6-macd626s-NVDA-2200000
+32.69         70281.7         15          4         12       0.56        536
+returns-midreturns-rbf6-macd1224-NVDA-2200000
+52.27        70023.51         14          4          8       0.64        521
+returns-midreturns-rbf6-macd1026s-NVDA-2200000
+70.58        70280.95         13          3          5       0.72        528
+returns-midreturns-rbf6-macd526s-NVDA-2200000
+-80.27       69991.99         32          5         22       0.59        538
+returns-midreturns-rbf6-macd926-NVDA-2200000
+21.58        70038.02         15          5         12       0.56        529
+returns-midreturns-rbf6-macd12268s-NVDA-2200000
+15.93         70169.1         20          5         14       0.59        542
+returns-midreturns-rbf6-macd926s-NVDA-2200000
+47.3         70196.05         14          5          9       0.61        530
+returns-midreturns-rbf6-macd1026-NVDA-2200000
+53.56        70177.62         17          4          7       0.71        527
+returns-midreturns-rbf6-macd12266-NVDA-2200000
+93.38        70464.91         11          4          5       0.69        545
+returns-midreturns-rbf6-macd12265-NVDA-2200000
+93.38        70464.91         11          4          5       0.69        547
+returns-midreturns-rbf6-macd12266s-NVDA-2200000
+28.38        70110.86         10          4          8       0.56        546
+returns-midreturns-rbf6-macd1224s-NVDA-2200000
+20.43        70237.37         10          5         11       0.48        522
+returns-midreturns-rbf6-macd1223s-NVDA-2200000
+87.38        70335.31         11          5          5       0.69        524
+returns-midreturns-rbf6-macd426s-NVDA-2200000
+26.47        70241.92         16          5         11       0.59        540
+returns-midreturns-rbf6-macd826s-NVDA-2200000
+15.17        70173.32         20          4         13       0.61        532
+returns-midreturns-rbf6-macd12267-NVDA-2200000
+26.19        70156.31         16          3         12       0.57        543
+returns-midreturns-rbf6-macd1228s-NVDA-2200000
+-66.18       69875.07         13          3         18       0.42        516
+returns-midreturns-rbf6-macd526-NVDA-2200000
+44.83        70090.72         17          4         10       0.63        537
+returns-midreturns-rbf6-macd1227s-NVDA-2200000
+60.88        70174.65         10          4          8       0.56        518
+returns-midreturns-rbf6-macd726s-NVDA-2200000
+35.83         70261.5         11          3         11        0.5        534
